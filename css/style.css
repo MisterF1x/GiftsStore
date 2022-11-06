@@ -89,6 +89,9 @@ img {
     font-family: 'Homemade Apple', serif;
     line-height: 2.17;
     margin-left: 80px;
+    animation: rubberBand;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
 }
 
 .header-button {
